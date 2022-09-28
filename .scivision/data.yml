@@ -9,7 +9,7 @@ Analytics Ltd.
       driver: intake_xarray.image.ImageSource
       args:
         urlpath: 
-["zip://*.tif::https://zenodo.org/record/6143685/files/images.zip"]
+["zip://*.tif::https://zenodo.org/record/7113865/files/PollenData.zip"]
         chunks: {}
         storage_options: {'anon': True}
         coerce_shape: [1000, 1000]
